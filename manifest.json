@@ -1,0 +1,620 @@
+{
+  "format": "MOCH",
+  "width": 128,
+  "height": 64,
+  "frame_bytes": 1024,
+  "animations": [
+    {
+      "name": "adore",
+      "source": "adore.gif",
+      "frames": 25,
+      "fps": 8,
+      "original_size_bytes": 61533,
+      "bin_size_bytes": 25610,
+      "bin_size_kb": 25.01,
+      "duration_ms_original": 3000
+    },
+    {
+      "name": "angry",
+      "source": "angry.gif",
+      "frames": 22,
+      "fps": 8,
+      "original_size_bytes": 47565,
+      "bin_size_bytes": 22538,
+      "bin_size_kb": 22.01,
+      "duration_ms_original": 2640
+    },
+    {
+      "name": "blank",
+      "source": "blank.gif",
+      "frames": 75,
+      "fps": 17,
+      "original_size_bytes": 54239,
+      "bin_size_bytes": 76810,
+      "bin_size_kb": 75.01,
+      "duration_ms_original": 4500
+    },
+    {
+      "name": "blinding",
+      "source": "blinding.gif",
+      "frames": 56,
+      "fps": 4,
+      "original_size_bytes": 166535,
+      "bin_size_bytes": 57354,
+      "bin_size_kb": 56.01,
+      "duration_ms_original": 14560
+    },
+    {
+      "name": "brave",
+      "source": "brave.gif",
+      "frames": 35,
+      "fps": 8,
+      "original_size_bytes": 71035,
+      "bin_size_bytes": 35850,
+      "bin_size_kb": 35.01,
+      "duration_ms_original": 4200
+    },
+    {
+      "name": "buzzing",
+      "source": "buzzing.gif",
+      "frames": 67,
+      "fps": 8,
+      "original_size_bytes": 95715,
+      "bin_size_bytes": 68618,
+      "bin_size_kb": 67.01,
+      "duration_ms_original": 8040
+    },
+    {
+      "name": "contempt",
+      "source": "contempt.gif",
+      "frames": 18,
+      "fps": 8,
+      "original_size_bytes": 37167,
+      "bin_size_bytes": 18442,
+      "bin_size_kb": 18.01,
+      "duration_ms_original": 2160
+    },
+    {
+      "name": "crying",
+      "source": "crying.gif",
+      "frames": 18,
+      "fps": 8,
+      "original_size_bytes": 35986,
+      "bin_size_bytes": 18442,
+      "bin_size_kb": 18.01,
+      "duration_ms_original": 2160
+    },
+    {
+      "name": "dancing",
+      "source": "dancing.gif",
+      "frames": 45,
+      "fps": 8,
+      "original_size_bytes": 91422,
+      "bin_size_bytes": 46090,
+      "bin_size_kb": 45.01,
+      "duration_ms_original": 5400
+    },
+    {
+      "name": "devil",
+      "source": "devil.gif",
+      "frames": 31,
+      "fps": 8,
+      "original_size_bytes": 72514,
+      "bin_size_bytes": 31754,
+      "bin_size_kb": 31.01,
+      "duration_ms_original": 3720
+    },
+    {
+      "name": "distracted",
+      "source": "distracted.gif",
+      "frames": 121,
+      "fps": 17,
+      "original_size_bytes": 93765,
+      "bin_size_bytes": 123914,
+      "bin_size_kb": 121.01,
+      "duration_ms_original": 7260
+    },
+    {
+      "name": "dizzy",
+      "source": "dizzy.gif",
+      "frames": 47,
+      "fps": 8,
+      "original_size_bytes": 104330,
+      "bin_size_bytes": 48138,
+      "bin_size_kb": 47.01,
+      "duration_ms_original": 5640
+    },
+    {
+      "name": "down",
+      "source": "down.gif",
+      "frames": 47,
+      "fps": 17,
+      "original_size_bytes": 35422,
+      "bin_size_bytes": 48138,
+      "bin_size_kb": 47.01,
+      "duration_ms_original": 2820
+    },
+    {
+      "name": "drowsy",
+      "source": "drowsy.gif",
+      "frames": 59,
+      "fps": 8,
+      "original_size_bytes": 70327,
+      "bin_size_bytes": 60426,
+      "bin_size_kb": 59.01,
+      "duration_ms_original": 7080
+    },
+    {
+      "name": "encouragement",
+      "source": "encouragement.gif",
+      "frames": 35,
+      "fps": 8,
+      "original_size_bytes": 85712,
+      "bin_size_bytes": 35850,
+      "bin_size_kb": 35.01,
+      "duration_ms_original": 4200
+    },
+    {
+      "name": "energetic",
+      "source": "energetic.gif",
+      "frames": 99,
+      "fps": 17,
+      "original_size_bytes": 151069,
+      "bin_size_bytes": 101386,
+      "bin_size_kb": 99.01,
+      "duration_ms_original": 5940
+    },
+    {
+      "name": "enraged",
+      "source": "enraged.gif",
+      "frames": 19,
+      "fps": 8,
+      "original_size_bytes": 40217,
+      "bin_size_bytes": 19466,
+      "bin_size_kb": 19.01,
+      "duration_ms_original": 2280
+    },
+    {
+      "name": "evil",
+      "source": "evil.gif",
+      "frames": 17,
+      "fps": 8,
+      "original_size_bytes": 49742,
+      "bin_size_bytes": 17418,
+      "bin_size_kb": 17.01,
+      "duration_ms_original": 2040
+    },
+    {
+      "name": "fast",
+      "source": "fast.gif",
+      "frames": 105,
+      "fps": 8,
+      "original_size_bytes": 140320,
+      "bin_size_bytes": 107530,
+      "bin_size_kb": 105.01,
+      "duration_ms_original": 12600
+    },
+    {
+      "name": "fierce",
+      "source": "fierce.gif",
+      "frames": 30,
+      "fps": 8,
+      "original_size_bytes": 55238,
+      "bin_size_bytes": 30730,
+      "bin_size_kb": 30.01,
+      "duration_ms_original": 3600
+    },
+    {
+      "name": "furious",
+      "source": "furious.gif",
+      "frames": 29,
+      "fps": 8,
+      "original_size_bytes": 96197,
+      "bin_size_bytes": 29706,
+      "bin_size_kb": 29.01,
+      "duration_ms_original": 3480
+    },
+    {
+      "name": "giggle",
+      "source": "giggle.gif",
+      "frames": 40,
+      "fps": 8,
+      "original_size_bytes": 40791,
+      "bin_size_bytes": 40970,
+      "bin_size_kb": 40.01,
+      "duration_ms_original": 4800
+    },
+    {
+      "name": "glowing",
+      "source": "glowing.gif",
+      "frames": 38,
+      "fps": 8,
+      "original_size_bytes": 48799,
+      "bin_size_bytes": 38922,
+      "bin_size_kb": 38.01,
+      "duration_ms_original": 4560
+    },
+    {
+      "name": "growing",
+      "source": "growing.gif",
+      "frames": 30,
+      "fps": 8,
+      "original_size_bytes": 35178,
+      "bin_size_bytes": 30730,
+      "bin_size_kb": 30.01,
+      "duration_ms_original": 3600
+    },
+    {
+      "name": "handsome",
+      "source": "handsome.gif",
+      "frames": 26,
+      "fps": 8,
+      "original_size_bytes": 54514,
+      "bin_size_bytes": 26634,
+      "bin_size_kb": 26.01,
+      "duration_ms_original": 3120
+    },
+    {
+      "name": "happy",
+      "source": "happy.gif",
+      "frames": 14,
+      "fps": 8,
+      "original_size_bytes": 19301,
+      "bin_size_bytes": 14346,
+      "bin_size_kb": 14.01,
+      "duration_ms_original": 1680
+    },
+    {
+      "name": "irritated",
+      "source": "irritated.gif",
+      "frames": 23,
+      "fps": 8,
+      "original_size_bytes": 50299,
+      "bin_size_bytes": 23562,
+      "bin_size_kb": 23.01,
+      "duration_ms_original": 2760
+    },
+    {
+      "name": "laughing",
+      "source": "laughing.gif",
+      "frames": 43,
+      "fps": 17,
+      "original_size_bytes": 46275,
+      "bin_size_bytes": 44042,
+      "bin_size_kb": 43.01,
+      "duration_ms_original": 2580
+    },
+    {
+      "name": "left",
+      "source": "left.gif",
+      "frames": 32,
+      "fps": 17,
+      "original_size_bytes": 28430,
+      "bin_size_bytes": 32778,
+      "bin_size_kb": 32.01,
+      "duration_ms_original": 1920
+    },
+    {
+      "name": "love",
+      "source": "love.gif",
+      "frames": 34,
+      "fps": 8,
+      "original_size_bytes": 59431,
+      "bin_size_bytes": 34826,
+      "bin_size_kb": 34.01,
+      "duration_ms_original": 4080
+    },
+    {
+      "name": "menacing",
+      "source": "menacing.gif",
+      "frames": 35,
+      "fps": 8,
+      "original_size_bytes": 73890,
+      "bin_size_bytes": 35850,
+      "bin_size_kb": 35.01,
+      "duration_ms_original": 4200
+    },
+    {
+      "name": "mistake",
+      "source": "mistake.gif",
+      "frames": 33,
+      "fps": 8,
+      "original_size_bytes": 92246,
+      "bin_size_bytes": 33802,
+      "bin_size_kb": 33.01,
+      "duration_ms_original": 3960
+    },
+    {
+      "name": "playful",
+      "source": "playful.gif",
+      "frames": 90,
+      "fps": 8,
+      "original_size_bytes": 89979,
+      "bin_size_bytes": 92170,
+      "bin_size_kb": 90.01,
+      "duration_ms_original": 10800
+    },
+    {
+      "name": "police",
+      "source": "police.gif",
+      "frames": 34,
+      "fps": 8,
+      "original_size_bytes": 73507,
+      "bin_size_bytes": 34826,
+      "bin_size_kb": 34.01,
+      "duration_ms_original": 4080
+    },
+    {
+      "name": "rain",
+      "source": "rain.gif",
+      "frames": 31,
+      "fps": 8,
+      "original_size_bytes": 32671,
+      "bin_size_bytes": 31754,
+      "bin_size_kb": 31.01,
+      "duration_ms_original": 3720
+    },
+    {
+      "name": "relaxed",
+      "source": "relaxed.gif",
+      "frames": 17,
+      "fps": 8,
+      "original_size_bytes": 38802,
+      "bin_size_bytes": 17418,
+      "bin_size_kb": 17.01,
+      "duration_ms_original": 2040
+    },
+    {
+      "name": "right",
+      "source": "right.gif",
+      "frames": 33,
+      "fps": 17,
+      "original_size_bytes": 27671,
+      "bin_size_bytes": 33802,
+      "bin_size_kb": 33.01,
+      "duration_ms_original": 1980
+    },
+    {
+      "name": "rush",
+      "source": "rush.gif",
+      "frames": 79,
+      "fps": 6,
+      "original_size_bytes": 152710,
+      "bin_size_bytes": 80906,
+      "bin_size_kb": 79.01,
+      "duration_ms_original": 12640
+    },
+    {
+      "name": "scared",
+      "source": "scared.gif",
+      "frames": 16,
+      "fps": 8,
+      "original_size_bytes": 18567,
+      "bin_size_bytes": 16394,
+      "bin_size_kb": 16.01,
+      "duration_ms_original": 1920
+    },
+    {
+      "name": "serene",
+      "source": "serene.gif",
+      "frames": 36,
+      "fps": 8,
+      "original_size_bytes": 55571,
+      "bin_size_bytes": 36874,
+      "bin_size_kb": 36.01,
+      "duration_ms_original": 4320
+    },
+    {
+      "name": "shrink",
+      "source": "shrink.gif",
+      "frames": 42,
+      "fps": 17,
+      "original_size_bytes": 35525,
+      "bin_size_bytes": 43018,
+      "bin_size_kb": 42.01,
+      "duration_ms_original": 2520
+    },
+    {
+      "name": "shy",
+      "source": "shy.gif",
+      "frames": 48,
+      "fps": 17,
+      "original_size_bytes": 56163,
+      "bin_size_bytes": 49162,
+      "bin_size_kb": 48.01,
+      "duration_ms_original": 2880
+    },
+    {
+      "name": "sick",
+      "source": "sick.gif",
+      "frames": 38,
+      "fps": 8,
+      "original_size_bytes": 53926,
+      "bin_size_bytes": 38922,
+      "bin_size_kb": 38.01,
+      "duration_ms_original": 4560
+    },
+    {
+      "name": "sleepy",
+      "source": "sleepy.gif",
+      "frames": 56,
+      "fps": 8,
+      "original_size_bytes": 56870,
+      "bin_size_bytes": 57354,
+      "bin_size_kb": 56.01,
+      "duration_ms_original": 6720
+    },
+    {
+      "name": "smile",
+      "source": "smile.gif",
+      "frames": 16,
+      "fps": 8,
+      "original_size_bytes": 15960,
+      "bin_size_bytes": 16394,
+      "bin_size_kb": 16.01,
+      "duration_ms_original": 1920
+    },
+    {
+      "name": "smirk",
+      "source": "smirk.gif",
+      "frames": 85,
+      "fps": 16,
+      "original_size_bytes": 74777,
+      "bin_size_bytes": 87050,
+      "bin_size_kb": 85.01,
+      "duration_ms_original": 5160
+    },
+    {
+      "name": "smoke",
+      "source": "smoke.gif",
+      "frames": 14,
+      "fps": 8,
+      "original_size_bytes": 31488,
+      "bin_size_bytes": 14346,
+      "bin_size_kb": 14.01,
+      "duration_ms_original": 1680
+    },
+    {
+      "name": "sneeze",
+      "source": "sneeze.gif",
+      "frames": 21,
+      "fps": 8,
+      "original_size_bytes": 22501,
+      "bin_size_bytes": 21514,
+      "bin_size_kb": 21.01,
+      "duration_ms_original": 2520
+    },
+    {
+      "name": "sobbing",
+      "source": "sobbing.gif",
+      "frames": 32,
+      "fps": 8,
+      "original_size_bytes": 56105,
+      "bin_size_bytes": 32778,
+      "bin_size_kb": 32.01,
+      "duration_ms_original": 3840
+    },
+    {
+      "name": "sparkle",
+      "source": "sparkle.gif",
+      "frames": 45,
+      "fps": 8,
+      "original_size_bytes": 95288,
+      "bin_size_bytes": 46090,
+      "bin_size_kb": 45.01,
+      "duration_ms_original": 5400
+    },
+    {
+      "name": "speed",
+      "source": "speed.gif",
+      "frames": 148,
+      "fps": 17,
+      "original_size_bytes": 181219,
+      "bin_size_bytes": 151562,
+      "bin_size_kb": 148.01,
+      "duration_ms_original": 8880
+    },
+    {
+      "name": "splash",
+      "source": "splash.gif",
+      "frames": 27,
+      "fps": 8,
+      "original_size_bytes": 29457,
+      "bin_size_bytes": 27658,
+      "bin_size_kb": 27.01,
+      "duration_ms_original": 3240
+    },
+    {
+      "name": "spraying",
+      "source": "spraying.gif",
+      "frames": 24,
+      "fps": 8,
+      "original_size_bytes": 23745,
+      "bin_size_bytes": 24586,
+      "bin_size_kb": 24.01,
+      "duration_ms_original": 2880
+    },
+    {
+      "name": "squint",
+      "source": "squint.gif",
+      "frames": 40,
+      "fps": 17,
+      "original_size_bytes": 29323,
+      "bin_size_bytes": 40970,
+      "bin_size_kb": 40.01,
+      "duration_ms_original": 2400
+    },
+    {
+      "name": "surprised",
+      "source": "surprised.gif",
+      "frames": 50,
+      "fps": 8,
+      "original_size_bytes": 100299,
+      "bin_size_bytes": 51210,
+      "bin_size_kb": 50.01,
+      "duration_ms_original": 6000
+    },
+    {
+      "name": "swinging",
+      "source": "swinging.gif",
+      "frames": 38,
+      "fps": 8,
+      "original_size_bytes": 77731,
+      "bin_size_bytes": 38922,
+      "bin_size_kb": 38.01,
+      "duration_ms_original": 4560
+    },
+    {
+      "name": "teasing",
+      "source": "teasing.gif",
+      "frames": 24,
+      "fps": 8,
+      "original_size_bytes": 30538,
+      "bin_size_bytes": 24586,
+      "bin_size_kb": 24.01,
+      "duration_ms_original": 2880
+    },
+    {
+      "name": "tough",
+      "source": "tough.gif",
+      "frames": 28,
+      "fps": 8,
+      "original_size_bytes": 74378,
+      "bin_size_bytes": 28682,
+      "bin_size_kb": 28.01,
+      "duration_ms_original": 3600
+    },
+    {
+      "name": "weeping",
+      "source": "weeping.gif",
+      "frames": 79,
+      "fps": 17,
+      "original_size_bytes": 97198,
+      "bin_size_bytes": 80906,
+      "bin_size_kb": 79.01,
+      "duration_ms_original": 4740
+    },
+    {
+      "name": "wink",
+      "source": "wink.gif",
+      "frames": 53,
+      "fps": 8,
+      "original_size_bytes": 53949,
+      "bin_size_bytes": 54282,
+      "bin_size_kb": 53.01,
+      "duration_ms_original": 6360
+    },
+    {
+      "name": "yawn",
+      "source": "yawn.gif",
+      "frames": 42,
+      "fps": 8,
+      "original_size_bytes": 51847,
+      "bin_size_bytes": 43018,
+      "bin_size_kb": 42.01,
+      "duration_ms_original": 5040
+    }
+  ],
+  "total_bin_bytes": 2697826,
+  "total_bin_mb": 2.573
+}
